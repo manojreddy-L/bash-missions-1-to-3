@@ -1,4 +1,4 @@
-# Bash Scripting Practice
+# bash-missions-1-to-3
 
 This repo contains basic Bash scripts written as part of my DevOps learning journey.
 
